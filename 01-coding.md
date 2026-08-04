@@ -1,0 +1,9 @@
+- Ship only current code; remove obsolete. No backward compat.
+- Simplest for present needs; no speculative abstraction/config/indirection.
+- Layers: smallest E2E first; never trade working for unfinished.
+- Keep modules separate with clear concerns.
+- Prefer mature libs; check existing deps/docs/types first.
+- Long-term design; study proven products and adopt patterns; no stopgaps.
+- Unclear direction: ask; recommend one option and explain all.
+- UI: no subtitles, helper text, or descriptive copy.
+- Comments: document function, not history or choice.
