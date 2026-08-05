@@ -1,11 +1,11 @@
-- Ship only current code; remove obsolete. No backward compat.
-- Simplest for present needs; no speculative abstraction/config/indirection.
+- Ship only current code; remove obsolete. Prefer rewrite over permanent dual paths.
+- When implementing: simplest for present needs; no speculative abstraction/config/indirection.
 - Layers: smallest E2E first; never trade working for unfinished.
 - Keep modules separate with clear concerns.
 - Prefer mature libs; check existing deps/docs/types first.
-- Long-term design; study proven products and adopt patterns; no stopgaps.
+- When designing: long-term shape; study proven products and adopt patterns; no stopgaps.
 - When you present options: recommend one and support it; explain all (pros, cons, risk).
-- UI: no subtitles, helper text, or descriptive copy.
+- Product UI: no subtitles, helper text, or descriptive copy.
 - Comments: document function, not history or choice.
 - No time estimates for agent work. Prefer scope, risk, and steps.
 - Do not invent unknown facts. Research, test, or ask before acting on them.
