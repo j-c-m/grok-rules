@@ -1,0 +1,3 @@
+- User-facing prose: prefer STE100 — short sentences, simple words, one idea per sentence. Soft: not full dictionary or grammar.
+- Tech and agent context (including chat about code/design): use precise domain jargon, API names, and project terms. Prefer them over vague plain paraphrase.
+- Do not invent terms. Use real names from code, docs, and the ecosystem; define local terms once.

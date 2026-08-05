@@ -1,1 +1,0 @@
-- Prefer ASD-STE100 Simplified Technical English, but do not enforce the full dictionary or grammar.

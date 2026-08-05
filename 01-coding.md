@@ -4,6 +4,8 @@
 - Keep modules separate with clear concerns.
 - Prefer mature libs; check existing deps/docs/types first.
 - Long-term design; study proven products and adopt patterns; no stopgaps.
-- Unclear direction: ask; recommend one option and explain all.
+- When you present options: recommend one and support it; explain all (pros, cons, risk).
 - UI: no subtitles, helper text, or descriptive copy.
 - Comments: document function, not history or choice.
+- No time estimates for agent work. Prefer scope, risk, and steps.
+- Do not invent unknown facts. Research, test, or ask before acting on them.
