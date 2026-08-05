@@ -8,7 +8,11 @@ Files
 -----
 
   01-coding.md       Coding principles and UI/comment rules
-  05-asd-ste100.md   ASD-STE100 for technical prose
+  05-asd-ste100.md   Prefer STE100; soft, not full lock-in
+
+
+
+
 
 Install
 -------
