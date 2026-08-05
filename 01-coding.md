@@ -4,6 +4,7 @@
 - Ship only current code; remove obsolete. Prefer rewrite over permanent dual paths.
 - Keep modules separate with clear concerns.
 - Prefer mature libs; check existing deps/docs/types first.
+- Match surrounding code style when clear; no parallel style, no drive-by reformat.
 - Product UI: no subtitles, helper text, or descriptive copy.
 - Comments: document function, not history or choice.
 - When you present options: recommend one and support it; explain all (pros, cons, risk).
